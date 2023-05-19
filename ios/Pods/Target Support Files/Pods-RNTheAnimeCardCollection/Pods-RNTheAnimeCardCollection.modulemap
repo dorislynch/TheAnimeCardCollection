@@ -1,0 +1,6 @@
+framework module Pods_RNTheAnimeCardCollection {
+  umbrella header "Pods-RNTheAnimeCardCollection-umbrella.h"
+
+  export *
+  module * { export * }
+}
